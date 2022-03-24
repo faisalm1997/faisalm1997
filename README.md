@@ -4,7 +4,7 @@ Welcome to my GitHub page.
  
 👀 I am currently learning different technologies in DevOps and Data Engineering. Have a 'can do' attitude towards learning and aiming to land a role in the above mentioned technological sectors. I will share my projects and learning with the community. 
 
-🌱 I am currently learning Python/Git/Machine Learning/Containers
+🌱 I am currently learning Python/SQL/Machine Learning/Containers
 
 
 <!---
