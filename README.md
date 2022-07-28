@@ -2,10 +2,9 @@
 
 Welcome to my GitHub page. 
  
-👀 I am currently learning different technologies in DevOps and Data Engineering. Have a 'can do' attitude towards learning and aiming to land a role in the above mentioned technological sectors. I will share my projects and learning with the community. 
+👀 I am currently learning different technologies in Data Architecture and Engineering. I will share my projects and learning with the community. 
 
-🌱 I am currently learning Python/SQL/Machine Learning/Containers
-
+🌱 I am currently learning AWS/Python/DevOps technologies
 
 <!---
 faisalm1997/faisalm1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
