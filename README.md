@@ -41,7 +41,7 @@ ___
 ### Languages and Tools: 
 
 <div>
-  <img src="https://camo.githubusercontent.com/ca1ee2827d565c2c5567e699f3de6ab1e8522d15fff9a0c765c256786b73f232/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4157532d3030303f266c6f676f3d416d617a6f6e2d415753266c6f676f436f6c6f723d463930" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/ca1ee2827d565c2c5567e699f3de6ab1e8522d15fff9a0c765c256786b73f232/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4157532d3030303f266c6f676f3d416d617a6f6e2d415753266c6f676f436f6c6f723d463930" title="AWS" alt="AWS" width="60" height="30"/>
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>
   &nbsp;
