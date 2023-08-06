@@ -17,6 +17,11 @@
 
 ### 👋 Hi everyone, I’m Faisal
 
+🧠 A passionate cloud data engineer who thrives on tackling challenges and crafting innovative solutions
+
+☕️ Dedicated to continuous learning, mentorship, and exceptional delivery
+
+🚀 Join me on my learning journey 
 ### Welcome to my GitHub page. 
 ___
 
@@ -27,15 +32,16 @@ ___
 - 🌱 Exploring Technical Content Writing and an advocate of continuous learning. 
 
 - ✉️ How you can reach me: 
-    - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Faisal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faisalmomoniat)
+    - LinkedIn: linkedin.com/in/faisalmomoniat 
     - Email: Faisalmomoniat@gmail.com
+- 🤝 Connect with me
 
 ---
 
 ### Languages and Tools: 
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/ca1ee2827d565c2c5567e699f3de6ab1e8522d15fff9a0c765c256786b73f232/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4157532d3030303f266c6f676f3d416d617a6f6e2d415753266c6f676f436f6c6f723d463930" title="AWS" alt="AWS" width="40" height="40"/>
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>
   &nbsp;
@@ -71,7 +77,15 @@ ___
 
 ---
 
-### ✍️ Latest Blog Posts: 
+### ✍️ Latest Written Content and contributions: 
 
 You can find my medium blog page here: https://medium.com/@thestoneageddeveloper
 
+#### Written content (blogs): 
+- [From Chemical Engineering to Tech - My Journey]("https://medium.com/@thestoneageddeveloper/chemical-engineering-graduate-breaking-into-the-world-of-data-98f6955232d5")
+- [Growth in Big Data Industry -  what is causing it and what's next?]("https://medium.com/@thestoneageddeveloper/why-is-big-data-growing-so-fast-2b4c9ce38593)
+- [Embracing the fear of failure - Battling imposter syndrome]("https://medium.com/@thestoneageddeveloper/the-fear-of-failure-why-we-need-to-embrace-it-8fb0e8fc8e3)
+- - [One year in a tech role - Reflection]("https://www.linkedin.com/feed/update/urn:li:activity:7076831076194635777/")
+#### Contributions and Community
+- [Tech Vault - A Technical Interview Questions Bank](URL "https://github.com/moabukar/tech-vault")
+- [AWS Machine Learning Builder 2022 - Present]("https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Faisal%2BMomoniat&cb-cards.q_operator=AND")
