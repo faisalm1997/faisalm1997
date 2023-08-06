@@ -82,10 +82,10 @@ ___
 You can find my medium blog page here: https://medium.com/@thestoneageddeveloper
 
 #### Written content (blogs): 
-- [From Chemical Engineering to Tech - My Journey]("https://medium.com/@thestoneageddeveloper/chemical-engineering-graduate-breaking-into-the-world-of-data-98f6955232d5")
-- [Growth in Big Data Industry -  what is causing it and what's next?]("https://medium.com/@thestoneageddeveloper/why-is-big-data-growing-so-fast-2b4c9ce38593)
-- [Embracing the fear of failure - Battling imposter syndrome]("https://medium.com/@thestoneageddeveloper/the-fear-of-failure-why-we-need-to-embrace-it-8fb0e8fc8e3)
-- - [One year in a tech role - Reflection]("https://www.linkedin.com/feed/update/urn:li:activity:7076831076194635777/")
+- [From Chemical Engineering to Tech - My Journey](URL "https://medium.com/@thestoneageddeveloper/chemical-engineering-graduate-breaking-into-the-world-of-data-98f6955232d5")
+- [Growth in Big Data Industry -  what is causing it and what's next?](URL "https://medium.com/@thestoneageddeveloper/why-is-big-data-growing-so-fast-2b4c9ce38593")
+- [Embracing the fear of failure - Battling imposter syndrome](URL "https://medium.com/@thestoneageddeveloper/the-fear-of-failure-why-we-need-to-embrace-it-8fb0e8fc8e3")
+- [One year in a tech role - Reflection](URL "https://www.linkedin.com/feed/update/urn:li:activity:7076831076194635777/")
 #### Contributions and Community
 - [Tech Vault - A Technical Interview Questions Bank](URL "https://github.com/moabukar/tech-vault")
-- [AWS Machine Learning Builder 2022 - Present]("https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Faisal%2BMomoniat&cb-cards.q_operator=AND")
+- [AWS Machine Learning Builder 2022 - Present](URL "https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Faisal%2BMomoniat&cb-cards.q_operator=AND")
