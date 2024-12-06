@@ -17,7 +17,7 @@
 
 ### 👋 Hi everyone, I’m Faisal
 
-🧠 A passionate cloud data engineer who thrives on tackling challenges and crafting innovative solutions
+🧠 A passionate data platform engineer who thrives on tackling challenges and crafting innovative solutions
 
 ☕️ Dedicated to continuous learning, mentorship, and exceptional delivery
 
@@ -27,7 +27,7 @@ ___
 
 ### About me: 
 
-- 🔭 I am currently working as a Cloud Data Engineer and contributing to building Cloud and Machine Learning solutions on AWS.
+- 🔭 I am currently working as a Data Platform Engineer and contributing to building Cloud and Machine Learning solutions.
 
 - 🌱 Exploring Technical Content Writing and an advocate of continuous learning. 
 
