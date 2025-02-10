@@ -71,7 +71,7 @@ ___
 
 ### 📊 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faisalm1997&theme=dark&background=000000)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=faisalm1997)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalm1997&layout=compact&theme=vision-friendly-dark)]
 
